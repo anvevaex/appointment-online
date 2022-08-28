@@ -1,0 +1,17 @@
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+li
+{
+    display:inline;
+}
+
+p {text-align: center;}
+
+.footer {    
+    position: fixed;  bottom: 0px; display: block; width: 70%;text-align: center;
+}

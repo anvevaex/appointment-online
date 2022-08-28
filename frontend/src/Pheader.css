@@ -1,0 +1,13 @@
+.header {
+   display: inline;
+   background-color: white;
+}
+
+.navbar {
+    text-align: center;
+    margin-left: 37%;
+}
+
+.shortcut {
+    float: right;
+}

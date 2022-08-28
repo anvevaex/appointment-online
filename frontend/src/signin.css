@@ -1,0 +1,13 @@
+.containers {
+    width: 25%;
+    height: 50%;
+    border: 1px solid rgb(219, 223, 219);
+    padding: 25px;
+    margin: auto;
+    position: relative;
+}
+
+.signin {
+    margin-bottom: 18%;
+    margin-top: 10%;
+}
